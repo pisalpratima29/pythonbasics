@@ -1,2 +1,1 @@
-# pythonbasics
-python basic programs
+# Wine Predictor
